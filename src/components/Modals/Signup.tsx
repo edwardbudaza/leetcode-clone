@@ -77,6 +77,6 @@ const Signup:React.FC<SignupProps> = () => {
                 </a>
             </div>
         </form>
-    )
+    );
 }
 export default Signup;
